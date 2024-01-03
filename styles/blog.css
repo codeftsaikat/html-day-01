@@ -1,0 +1,37 @@
+h3{
+    /* font-variant-numeric: diagonal-fractions; */
+    text-decoration: overline;
+    padding: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    display:inline-block;
+    color: rgb(211, 221, 230);
+    /* display: none */
+    /* visibility:hidden */
+}
+.newdiv{
+    margin: 30px;
+    border: 10px solid tomato;
+    text-decoration: underline;
+    text-align: center;
+    box-shadow: 14px 15px 12px rgb(136, 136, 241);
+}
+#Laboriosam{
+    border: 4px solid yellowgreen;
+}
+.header{
+    height: 450px;
+    width: 3000px;
+    background-color: rgb(240, 182, 106);
+    background-image: url('../image/favicon.png');
+    /* background-size: cover; */
+    background-size: contain;
+    background-position: center;
+}
+.distinctio{
+    border: 3px solid blue;
+    height: 60px;
+    display: block;
+    display:inline-block
+}
